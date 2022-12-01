@@ -1,0 +1,2 @@
+export const FLAT_LIST_END_THRESHOLD = 0.2;
+export const FLAT_LIST_RENDER_PER_BATCH = 10;

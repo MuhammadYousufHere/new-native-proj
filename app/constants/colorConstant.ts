@@ -1,0 +1,15 @@
+export const APPCOLOR = {
+  primary: '#3D2073',
+  secondary: '#ECEFFF',
+  facebook: 'rgba(56,117,234, 1.0)',
+  white: 'rgba(255,255,255, 1.0)',
+  clear: 'rgba(255,255,255, 0)',
+  offWhite: 'rgba(240, 240, 240, 1.0)',
+  black: 'rgba(0,0,0, 1.0)',
+  indicatorBG: 'rgba(0,0,0, 0.5)',
+  bg: '#FAF9FF',
+  text: '#9CA3AF',
+  danger: '#E93325',
+  link: '#F58B65',
+  info: '#7F7F88',
+};
