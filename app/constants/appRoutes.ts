@@ -1,0 +1,15 @@
+export const Screens = {
+  Validation: 'Validation',
+  Onboarding: 'Onboarding',
+  Register: 'Register',
+  SignIn: 'SignIn',
+  VerifyEmail: 'VerifyEmail',
+  InterestCategory: 'InterestCategory',
+  Indicator: 'Indicator',
+  ServerDown: 'ServerDown',
+  App: 'App',
+  EditProfile: 'EditProfile',
+  Home: 'Home',
+  Profile: 'Profile',
+  MyProfile: 'MyProfile',
+} as const;

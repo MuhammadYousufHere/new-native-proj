@@ -1,0 +1,29 @@
+export enum FontFamilies {
+  JAKARTA_EXTRA_LIGHT = 'PlusJakartaSans-ExtraLight', // 200
+  JAKARTA_EXTRA_LIGHT_ITALIC = 'PlusJakartaSans-ExtraLightItalic',
+  JAKARTA_LIGHT = 'PlusJakartaSans-Light', // 300
+  JAKARTA_LIGHT_ITALIC = 'PlusJakartaSans-LightItalic',
+  JAKARTA_REGULAR = 'PlusJakartaSans-Regular', // 400
+  JAKARTA_MEDIUM = 'PlusJakartaSans-Medium', // 500
+  JAKARTA_MEDIUM_ITALIC = 'PlusJakartaSans-MediumItalic',
+  JAKARTA_SEMI_BOLD = 'PlusJakartaSans-SemiBold', //600
+  JAKARTA_SEMI_BOLD_ITALIC = 'PlusJakartaSans-SemiBoldItalic',
+  JAKARTA_BOLD = 'PlusJakartaSans-Bold', // 700
+  JAKARTA_BOLD_ITALIC = 'PlusJakartaSans-BoldItalic',
+  JAKARTA_EXTRA_BOLD = 'PlusJakartaSans-ExtraBold', // 800
+  JAKARTA_EXTRA_BOLD_ITALIC = 'PlusJakartaSans-ExtraBoldItalic',
+  Barcelony = 'Barcelony',
+  BebasNeue_Regular = 'BebasNeue-Regular',
+  Roboto_Thin_100 = 'Roboto-Thin', // 100
+  Roboto_Thin_Italic_100 = 'Roboto-ThinItalic', // 100
+  Roboto_Light_300 = 'Roboto-Light', // 300
+  Roboto_LightItalic_300 = 'Roboto-LightItalic', // 300
+  Roboto_Regular_400 = 'Roboto-Regular', // 400
+  Roboto_Italic = 'Roboto-Italic',
+  Roboto_Medium_500 = 'Roboto-Medium', // 500
+  Roboto_Medium_Italic_500 = 'Roboto-MediumItalic', // 500
+  Roboto_Bold_700 = 'Roboto-Bold', // 700
+  Roboto_BoldItalic_700 = 'Roboto-BoldItalic', // 700
+  Roboto_Black_900 = 'Roboto-Black', // 900
+  Roboto_Black_Italic_900 = 'Roboto-BlackItalic', // 900
+}
